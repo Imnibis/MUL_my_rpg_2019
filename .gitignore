@@ -6,3 +6,4 @@ vgcore.*
 __pycache__/*
 *.a
 my_rpg
+.idea/*
